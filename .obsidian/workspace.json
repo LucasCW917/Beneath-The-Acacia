@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Chapter 4 - Xilem.md",
+                "file": "Chapters/Chapter 1 - Silence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4 - Xilem"
+              "title": "Chapter 1 - Silence"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "3a3e9d2118729289",
   "lastOpenFiles": [
-    "Chapters/Chapter 3 - Acacia.md",
     "Chapters/Chapter 4 - Xilem.md",
+    "Chapters/Chapter 3 - Acacia.md",
     "Chapters/Chapter 1 - Silence.md",
     "Chapters/Chapter 2 - Level 356.md",
     "Chapters",

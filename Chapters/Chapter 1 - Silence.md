@@ -52,6 +52,8 @@ They all agreed to turn it on.
 
 *Click*. *Jet engine sounds*. Bold text appeared on the screen, and it read: "**HORIZON SYSTEMS**". Below was a username box and a password box. All three don't have any memory of their employee credentials. Luckily, there was a public credentials directory in the system, so they decided to look themselves up.
 
+-----
+
 <center>Smith Parker</center>
 <center>Employee Access Level: 10</center>
 <center>Employee ID: 2</center>
@@ -76,6 +78,8 @@ They all agreed to turn it on.
 <center>Role: Horizon Security (Horizon Cores)</center>
 <center>Employee Password: (eye scan required)</center>
 <center>Eye Color: Silver-white</center>
+
+-----
 
 Everybody stares at the screen. "Holy fuck", says James a moment later. Nobody disagrees with him. They're been inactive for so long they forgot who they were entirely. Nobody seemed to realize the power that Smith had.
 
